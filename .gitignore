@@ -1,2 +1,19 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Encryption key generated at runtime
+encryption_key.key
